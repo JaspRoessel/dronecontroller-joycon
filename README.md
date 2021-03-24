@@ -1,6 +1,6 @@
 # dronecontroller-joycon
 
-A script for controlling the [Parrot AR Drone 2.0](https://droneshop.nl/model/parrot/ar-drone-2-0) with a joycon controller.
+A script for controlling the [Parrot AR Drone 2.0](https://www.drones.nl/drones/parrot-ar-drone-2-0) with a joycon controller.
 
 ----------------------------------------------------------
 
