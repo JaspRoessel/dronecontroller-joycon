@@ -12,6 +12,6 @@ Script uses both packages ar-drone and switch-joy-con.
 
 ----------------------------------------------------------
 
-Video essay link
+Video essay link:
 https://youtu.be/nfSAsIezuq0
 
